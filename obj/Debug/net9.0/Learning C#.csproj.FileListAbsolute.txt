@@ -12,3 +12,4 @@ D:\All-About-Programming\C#- Dot Net\Learning C#\obj\Debug\net9.0\refint\Learnin
 D:\All-About-Programming\C#- Dot Net\Learning C#\obj\Debug\net9.0\Learning C#.pdb
 D:\All-About-Programming\C#- Dot Net\Learning C#\obj\Debug\net9.0\Learning C#.genruntimeconfig.cache
 D:\All-About-Programming\C#- Dot Net\Learning C#\obj\Debug\net9.0\ref\Learning C#.dll
+D:\All-About-Programming\C#- Dot Net\Learning C#\obj\Debug\net9.0\Learning C#.sourcelink.json

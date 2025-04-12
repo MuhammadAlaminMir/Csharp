@@ -1,3 +1,9 @@
-bin/
-obj/
-Learning C#.csproj
+# .NET build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Project files
+*.csproj
+*.user
+*.suo
+*.pubxml
